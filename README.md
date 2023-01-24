@@ -17,7 +17,7 @@ void PushToVector(vector<int>& container, int data)
 //create smelter - object which will allow for communication between ore and container, e. g. vector.
 ore<int>::smelter<vector<int>> example_smelter(example_ore, PushToVector);
 ```
-For more information about usage, go to [wiki]().
+For more information about usage, go to [wiki](https://github.com/Cantro93/ores/wiki).
 ## Changelog
 * v.0.1.b - first version
 
@@ -29,7 +29,7 @@ For more information about usage, go to [wiki]().
 
 They are loaded automatically.
 
-For more information, open [specification]().
+For more information, open [specification](https://github.com/Cantro93/ores/wiki/Specification).
 ## Planned updates
 - [ ] Remembering the last stable quantity
 - [ ] Library with more randomizers
