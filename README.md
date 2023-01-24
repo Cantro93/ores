@@ -25,10 +25,10 @@ For more information about usage, go to [wiki]().
 * vector
 * functional
 * random
+* ctime
+They are loaded automatically.
 
-they are loaded automatically
-
-For more information, open [specification]()
+For more information, open [specification]().
 ## Planned updates
 - [ ] Remembering the last stable quantity
 - [ ] Library with more randomizers
