@@ -19,7 +19,7 @@ ore<int>::smelter<vector<int>> example_smelter(example_ore, PushToVector);
 ```
 For more information about usage, go to [wiki](https://github.com/Cantro93/ores/wiki).
 ## Changelog
-* v.0.1.b - first version
+* v.1.0.b - first version
 
 ## Required libraries:
 * vector
