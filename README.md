@@ -1,5 +1,5 @@
 # Ores - useful C++ Randomizers
-Ores are objects used to draw one element from a vector acting as a pool.
+Ores are objects used to draw one or more elements from a vector acting as a pool.
 
 Aim of the project is to make object randomizing easier.
 ## Usage - introduction:
